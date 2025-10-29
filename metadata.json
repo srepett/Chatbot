@@ -1,0 +1,5 @@
+{
+  "name": "Zymzz AI Studio Chat",
+  "description": "Bot obrolan yang didukung oleh Zymzz AI, terinspirasi oleh antarmuka aistudio.google.com. Mendukung input teks dan gambar untuk percakapan interaktif.",
+  "requestFramePermissions": []
+}
